@@ -6,3 +6,4 @@ Desarrollado por:
 - Sara Garcés Alvarez CC 1001015223 -- Bioingeniería
 
 Video entrega 2: https://www.youtube.com/watch?v=uMZ7wZR6hiA
+Video entrega final: https://youtu.be/5Os7XSALZrU
